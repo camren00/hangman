@@ -1,0 +1,4 @@
+html { background: #f5efe5; }
+body { margin: 0; }
+body, button { font-family: 'DM Sans', Arial, sans-serif; }
+button:focus-visible { outline: 3px solid #e66c57; outline-offset: 3px; }
